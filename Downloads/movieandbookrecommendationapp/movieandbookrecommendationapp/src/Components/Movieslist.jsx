@@ -1,0 +1,7 @@
+const Movieslist = ()=>{
+    return(
+        <>
+        
+        </>
+    )
+}
